@@ -1,5 +1,5 @@
 # Ignorar o arquivo de variáveis de ambiente
-.env
+.env 
 
 # Ignorar a pasta de dependências do Node.js
 node_modules
